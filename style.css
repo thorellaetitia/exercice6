@@ -1,0 +1,55 @@
+
+#rectangle1{
+  float: left;
+	width:81%;
+	height:10vh;
+	background:#2ecc71;
+}
+#rectangle2{
+  float:right;
+  width:19%;
+  height:10vh;
+  background:#2980b9;
+}
+#rectangle3{
+  float : left;
+  width: 33%;
+  height:20vh;
+  background:#e74c3c;
+}
+#rectangle4{
+  float : left;
+  width: 33%;
+  height:10vh;
+  background:#e67e22;
+}
+#rectangle5{
+  float:right;
+  width : 34%;
+  height: 10vh;
+  background :#95a5a6;
+}
+#rectangle6{
+  float:left;
+  width : 22%;
+  height: 10vh;
+  background :#f39c12;
+  }
+  #rectangle7{
+    float:left;
+    width : 22%;
+    height: 10vh;
+    background :#16a085;
+    }
+  #rectangle8{
+    float:right;
+    width : 23%;
+    height: 10vh;
+    background :#d35400;
+    }
+    #rectangle9{
+      float:left;
+      width : 100%;
+      height: 30vh;
+      background :#2c3e50;
+      }
